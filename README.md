@@ -1,1 +1,1 @@
-# FDJ_SQVI-Logics
+# FDJ_SQVI
